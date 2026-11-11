@@ -8,11 +8,11 @@ A modular collection of C++ programs developed for the Object-Oriented Programmi
 
 | Field | Information |
 | :--- | :--- |
-| **Student Name** | [Enter Your Name] |
-| **Roll Number** | [Enter Roll Number] |
-| **USN / SRN** | [Enter USN / SRN] |
-| **Branch / Department** | Computer Science & Engineering / IT |
-| **Semester** | [Enter Semester] |
+| **Student Name** | Kaushik Kulkarni |
+| **Roll Number** | 47 |
+| **USN / SRN** | 01FE23BEC346 |
+| **Branch / Department** | Electronics and Communication |
+| **Semester** | 7 |
 | **Course Title** | Object-Oriented Programming in C++ |
 
 ---
